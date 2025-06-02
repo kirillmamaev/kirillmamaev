@@ -1,4 +1,4 @@
-## Hi 👋 I'm Kirill - Web-Frontend Practice Lead at [Mable.com.au](https://mable.com.au)
+## Hi 👋 I'm Kirill - Frontend Practice Lead at [Mable.com.au](https://mable.com.au)
 
 🤓 Mastering: TypeScript, Angular
 
