@@ -1,13 +1,7 @@
 ## Hi 👋
 
-I'm Kirill Mamaev, Staff Software Engineer and Frontend Practice Lead based in Sydney, Australia.
-I have over 20 years of experience in tech, with a strong focus on Frontend Development using Angular and TypeScript, plus a solid background in web accessibility, scalability, and performance.
+I'm Kirill, Staff Software Engineer and Frontend Practice Lead at Mable (Sydney, Australia).
 
-At [Mable](https://mable.com.au), I lead the frontend engineering practice, mentor developers, and collaborate with product, design, and QA to deliver accessible, high-quality web applications.
-Previously, I spent 14 years at Google, specialising in technical product support, tools development, and cross-team collaboration.
+I have 20+ years in tech. I build with Angular and TypeScript, and I focus on accessibility, scalability and performance.
 
-💡 Passionate about clean code, problem solving, AI and learning new tech.
-
-🤓 Mastering: TypeScript, Angular
-
-🌱 Exploring: React, Next.js, Ruby
+At [Mable](https://mable.com.au), I lead the frontend practice, mentor engineers and work with product and design to ship accessible web apps. Before that, I spent 14 years at Google in technical product support, tooling and cross-team work.
